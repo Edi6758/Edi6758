@@ -1,4 +1,4 @@
-<h2> Dev Full Stack> 🖥️ </2>
+<h2> Dev Full Stack 🖥️ </2>
 
 
 <h3 align="left">Languages and Tools:</h3>
